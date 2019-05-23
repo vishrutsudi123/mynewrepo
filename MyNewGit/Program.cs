@@ -10,8 +10,8 @@ namespace MyNewGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I've created a new repository in GitHub");
-            Console.ReadKey();
+            int a = 10, b = 20;
+            Console.WriteLine("the addition of two numbers is "+a+b);
         }
     }
 }
