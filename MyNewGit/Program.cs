@@ -10,6 +10,8 @@ namespace MyNewGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I've created a new repository in GitHub");
+            Console.ReadKey();
         }
     }
 }
