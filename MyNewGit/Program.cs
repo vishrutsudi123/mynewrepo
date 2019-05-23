@@ -11,7 +11,7 @@ namespace MyNewGit
         static void Main(string[] args)
         {
             int a = 10, b = 20;
-            Console.WriteLine("the addition of two numbers is "+a+b);
+            Console.WriteLine("the product of two numbers is "+a*b);
         }
     }
 }
